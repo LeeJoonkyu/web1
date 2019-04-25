@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: /sitemap.xml
+
+#사이트맵 xml을 제공해서 검색엔진의 동작 방법을 제어하는 것.
